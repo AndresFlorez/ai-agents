@@ -1,0 +1,9 @@
+streamlit
+openai
+crewai-tools
+crewai
+google-search-results
+jupyter
+onnxruntime
+langgraph
+openai-agents
